@@ -1,0 +1,9 @@
+syntax:glob
+
+\.settings
+\.project
+\.cproject
+*.bin
+*.html
+*.txt
+
